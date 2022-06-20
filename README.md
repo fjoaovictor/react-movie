@@ -1,3 +1,11 @@
+#Projeto com o objetivo de estudos, usando REACT JS, API TheMovieDB.
+
+#Abaixo estão algumas prints das telas da aplicação
+
+<img src="https://github.com/fjoaovictor/react-movie/blob/main/Screenshot%20Popular.jpg" />
+<img src="https://github.com/fjoaovictor/react-movie/blob/main/Screenshot%20Popular.jpg" />
+<img src="https://github.com/fjoaovictor/react-movie/blob/main/Screenshot%20Popular.jpg" />
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
