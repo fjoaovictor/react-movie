@@ -3,8 +3,8 @@
 #Abaixo estão algumas prints das telas da aplicação
 
 <img src="https://github.com/fjoaovictor/react-movie/blob/main/Screenshot%20Popular.jpg" />
-<img src="https://github.com/fjoaovictor/react-movie/blob/main/Screenshot%20Popular.jpg" />
-<img src="https://github.com/fjoaovictor/react-movie/blob/main/Screenshot%20Popular.jpg" />
+<img src="https://github.com/fjoaovictor/react-movie/blob/main/Screenshot%20Home.jpg" />
+<img src="https://github.com/fjoaovictor/react-movie/blob/main/Screenshot%20Bottom.jpg" />
 
 # Getting Started with Create React App
 
