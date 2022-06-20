@@ -1,0 +1,42 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400;600;700&display=swap');
+
+
+*{
+  outline: 0;
+  margin: 0;
+  padding: 0;
+
+  font-family: 'Quicksand', sans-serif;
+}
+
+body{
+  background-color: #161616;
+}
+
+.container{
+
+  display: grid;
+  grid-template-areas: 
+    'menu main main'
+    'menu main main'
+  ;
+
+  grid-template-columns: 250px;
+  grid-template-rows: 145px;
+  grid-gap: 10px;
+}
+
+.menu {
+  grid-area: menu;
+  
+  
+}
+
+.header{
+  grid-area: header;
+}
+
+.main {
+  grid-area: main;
+}

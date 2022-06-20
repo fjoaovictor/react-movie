@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fascinate+Inline&display=swap');
+.menu--nav{
+    width: 260px;
+    height: 950px;
+    background-image: linear-gradient(to bottom, #222222 10%, transparent);
+}
+
+.nav--container{
+    display: flex;
+    flex-direction: column;
+
+    padding: 30px;
+}
+
+.nav--log{
+
+    display: flex;
+    gap: 10px;
+    align-items: center;
+
+    font-size: 14px;
+
+    color: #ffffff6c;
+    
+    cursor: pointer;
+
+    margin: 30px 0 50px 0; 
+
+}
+
+.nav--log h1{
+    font-family: 'Fascinate Inline', cursive;
+}
+
+.nav--menu__item{
+    font-size: 15px;
+    font-family: 'Source Sans Pro', sans-serif;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 15px;
+
+    color: rgba(255, 255, 255, 0.253);
+
+    padding-top: 25px;
+}
+
+.nav--menu__item a{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+
+    width: 150px;
+
+    font-weight: 700;
+    
+    cursor: pointer;
+
+    transition: all ease 0.4s;
+}
+
+
+.nav--menu__item a:hover{
+    color: #7474f0;
+}
+
+.nav--menu__item a.fire:hover{
+    color: #f07474;
+}
